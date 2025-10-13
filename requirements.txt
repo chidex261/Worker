@@ -1,0 +1,2 @@
+# Only standard libraries are used, but if you want logging enhancements:
+# pip install python-dotenv
